@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Object detection from Satellite Imagery.
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on solving the Sustainability Problem using ML
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Please visit my github account https://github.com/shataxiDubey
 <!-- - 😄 Pronouns: ... -->
