@@ -7,7 +7,7 @@ Please visit my account https://github.com/shataxiDubey.
 **Shataxi/Shataxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Object detection from Satellite Imagery.
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on solving the Sustainability Problem using ML
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Please visit my github account https://github.com/shataxiDubey
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I created this account to get Github Copilot Access😄
--->
+
