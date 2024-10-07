@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Shataxi Dubey, M.Tech CSE student at IIT Gandhinagar.
-I am more active on this GitHub account **https://github.com/shataxiDubey** with username shataxiDubey.
-Please visit my account https://github.com/shataxiDubey.
+I am more active on this GitHub account **https://github.com/shataxiDubey** with username **shataxiDubey**.
+Please visit my account #### https://github.com/shataxiDubey.
 
 
 <!--
